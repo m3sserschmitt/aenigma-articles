@@ -3,6 +3,7 @@
     "title": "Prima postare",
     "description": "Descrierea postarii",
     "date": "2025-07-04T12:00:00Z",
-    "url": "https://articles.aenigma.ro/hello-ro.md"
+    "url": "https://articles.aenigma.ro/hello-ro.md",
+    "imageUrls": ["https://articles.aenigma.ro/hello.png"]
   }
 ]
