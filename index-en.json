@@ -3,6 +3,7 @@
     "title": "My First Blog Post",
     "description": "This is a short summary of my first blog post.",
     "date": "2025-07-04T12:00:00Z",
-    "url": "https://articles.aenigma.ro/hello-en.md"
+    "url": "https://articles.aenigma.ro/hello-en.md",
+    "imageUrls": ["https://articles.aenigma.ro/hello.png"]
   }
 ]
