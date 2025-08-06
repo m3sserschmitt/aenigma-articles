@@ -1,5 +1,7 @@
 # Salut, Lume!
 
+![hello](https://articles.aenigma.ro/hello.png)
+
 Bine ai venit pe blogul meu. Acesta este primul meu articol scris în **Markdown**.
 
 ## De ce Markdown?
