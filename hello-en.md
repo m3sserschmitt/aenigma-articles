@@ -1,5 +1,7 @@
 # Hello, World!
 
+![hello](https://articles.aenigma.ro/hello.png)
+
 Welcome to my blog. This is my first article written in **Markdown**.
 
 ## Why Markdown?
