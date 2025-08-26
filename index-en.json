@@ -1,9 +1,9 @@
 [
   {
-    "title": "My First Blog Post",
-    "description": "This is a short summary of my first blog post.",
+    "title": "Privacy Policy",
+    "description": "Learn how Aenigma store and process your data",
     "date": "2025-07-04T12:00:00Z",
-    "url": "https://articles.aenigma.ro/hello-en.md",
-    "imageUrls": ["https://articles.aenigma.ro/hello.png"]
+    "url": "https://articles.aenigma.ro/privacy-policy-en.md",
+    "imageUrls": []
   }
 ]
