@@ -1,4 +1,4 @@
-Privacy Policy
+# Privacy Policy
 
 Aenigma does not collect, store, or process any personal information about its users.
 The application does not request any personal data from the user in order to function.
