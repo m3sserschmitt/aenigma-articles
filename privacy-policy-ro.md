@@ -1,4 +1,4 @@
-# Politica de confidențialitate
+## Politica de confidențialitate
 
 Aenigma nu colectează, nu stochează și nu procesează nicio informație personală despre utilizatorii săi.
 Aplicația nu solicită niciun fel de date personale din partea utilizatorului pentru a putea utiliza aplicația.
