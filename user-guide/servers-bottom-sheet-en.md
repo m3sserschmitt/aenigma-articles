@@ -37,3 +37,8 @@ is used, it will attempt to connect to the entered address.*
 ### Contact
 
 You can report errors or suggest improvements at [contact@aenigma.ro](mailto:contact@aenigma.ro)
+
+---
+
+*This document is licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*

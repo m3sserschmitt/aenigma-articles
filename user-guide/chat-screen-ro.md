@@ -44,3 +44,9 @@ va cauza ca acesta să fie selectat sau, după caz, deselectat.
 ### Contact
 
 Puteți semnala erori sau propune îmbunătățiri la [contact@aenigma.ro](mailto:contact@aenigma.ro)
+
+---
+
+*Acest document este licențiat sub
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
+

@@ -62,7 +62,7 @@ vagrant ssh
 After successfully connecting, the following message will be visible on the
 command line:
 
-![alt text](./images/server-status.png)
+![alt text](https://articles.aenigma.ro/user-guide/images/server-status.png)
 
 Initially, the virtual machine will have two services configured:
 `aenigma-dashboard` (for administration) and `aenigma` (used by the
@@ -72,7 +72,7 @@ is protected by an access key. Copy the address of the `aenigma-dashboard`
 service and open Tor Browser. In the address bar, enter the copied address
 adding `/dashboard`, as shown in the following image:
 
-![alt text](./images/server-dashboard-auth.png)
+![alt text](https://articles.aenigma.ro/user-guide/images/server-dashboard-auth.png)
 
 To obtain the access key you can use the command
 
@@ -82,7 +82,7 @@ sudo sudo aenigma-tor-get-auth -s aenigma-dashboard -u aenigma-dashboard
 
 as in the following example:
 
-![alt text](./images/server-get-auth.png)
+![alt text](https://articles.aenigma.ro/user-guide/images/server-get-auth.png)
 
 Only the characters after `x25519` should be entered into Tor Browser for
 authentication. After obtaining the access key, you can access the server's
@@ -93,7 +93,7 @@ administration page through Tor Browser.
 
 > __*Note*__: Create a bookmark for this page to make future access easier.
 
-![alt text](./images/server-dashboard.png)
+![alt text](https://articles.aenigma.ro/user-guide/images/server-dashboard.png)
 
 On this page we can observe the following:
 
@@ -144,7 +144,7 @@ sudo aenigma-start
 
 as in the following example:
 
-![alt text](./images/server-lock-key.png)
+![alt text](https://articles.aenigma.ro/user-guide/images/server-lock-key.png)
 
 > After configuring a password, the `/dashboard` page must be checked through
 > Tor Browser at every startup. If the password field is *active* and allows
@@ -209,3 +209,8 @@ man aenigma-tor-auth
 ### Contact
 
 You can report bugs or suggest improvements at [contact@aenigma.ro](mailto:contact@aenigma.ro)
+
+---
+
+*This document is licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*

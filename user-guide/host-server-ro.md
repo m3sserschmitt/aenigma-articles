@@ -58,7 +58,7 @@ vagrant ssh
 
 După conectarea cu succes, în linia de comandă va fi vizibil următorul mesaj:
 
-![alt text](./images/server-status.png)
+![alt text](https://articles.aenigma.ro/user-guide/images/server-status.png)
 
 Inițial mașina virtuală va avea configurate două servicii: `aenigma-dashboard` (pentru
 administrare) și `aenigma` (folosit de
@@ -68,7 +68,7 @@ la server). În timp ce serviciul `aenigma` este accesibil tuturor celor care au
 `aenigma-dashboard` și accesați Tor Browser. În bara de adrese introduceți adresa copiată
 adăugând `/dashboard`, precum în imaginea următoare:
 
-![alt text](./images/server-dashboard-auth.png)
+![alt text](https://articles.aenigma.ro/user-guide/images/server-dashboard-auth.png)
 
 
 Pentru a obține cheia de acces
@@ -80,7 +80,7 @@ sudo sudo aenigma-tor-get-auth -s aenigma-dashboard -u aenigma-dashboard
 
 precum în exemplul următor:
 
-![alt text](./images/server-get-auth.png)
+![alt text](https://articles.aenigma.ro/user-guide/images/server-get-auth.png)
 
 Doar caracterele de după `x25519` vor fi introduse în Tor Browser pentru autentificare.
 După obținerea cheii de acces se poate accesa pagina de administrare a server-ului prin
@@ -91,7 +91,7 @@ Tor Browser.
 
 > __*Notă*__: Creați un bookmark pentru această pagină pentru ușura accesările viitoare.
 
-![alt text](./images/server-dashboard.png)
+![alt text](https://articles.aenigma.ro/user-guide/images/server-dashboard.png)
 
 În această pagină observăm următoarele:
 
@@ -141,7 +141,7 @@ sudo aenigma-start
 
 precum în exemplul următor:
 
-![alt text](./images/server-lock-key.png)
+![alt text](https://articles.aenigma.ro/user-guide/images/server-lock-key.png)
 
 > După configurarea unei parole, la fiecare pornire va fi necesară verificarea
 > paginii `/dashboard` prin Tor Browser. Dacă câmpul parolei este *activ* și permite
@@ -203,3 +203,8 @@ man aenigma-tor-auth
 ### Contact
 
 Puteți semnala erori sau propune îmbunătățiri la [contact@aenigma.ro](mailto:contact@aenigma.ro)
+
+---
+
+*Acest document este licențiat sub
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
