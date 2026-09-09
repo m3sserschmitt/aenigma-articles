@@ -2,8 +2,15 @@
   {
     "title": "Politica de confidențialitate",
     "description": "Cum sunt tratate datele tale personale",
-    "date": "2025-08-26T00:00:00Z",
+    "date": "2025-08-26T00:00:00+03:00",
     "url": "https://articles.aenigma.ro/privacy-policy-ro.md",
+    "imageUrls": []
+  },
+  {
+    "title": "Găzduiți propriul server privat Aenigma",
+    "description": "Aenigma pune la dispoziție o modalitate simplă de găzduire a propriului sistem de mesagerie privat chiar pe dispozitivul personal al utilizatorului, pentru toate platformele desktop. Aflați com puteți face asta în câțiva pași simpli.",
+    "date": "2026-09-09T00:00:00+03:00",
+    "url": "https://articles.aenigma.ro/user-guide/host-server-ro.md",
     "imageUrls": []
   }
 ]

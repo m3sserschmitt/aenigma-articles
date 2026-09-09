@@ -2,8 +2,15 @@
   {
     "title": "Privacy Policy",
     "description": "Learn how Aenigma store and process your data",
-    "date": "2025-08-26T00:00:00Z",
+    "date": "2025-08-26T00:00:00+03:00",
     "url": "https://articles.aenigma.ro/privacy-policy-en.md",
+    "imageUrls": []
+  },
+  {
+    "title": "Host your private Aenigma server",
+    "description": "Aenigma provides a simple way to host your own private messaging system right on your personal device, for all desktop platforms. Learn how to do that in a few simple steps.",
+    "date": "2026-09-09T00:00:00+03:00",
+    "url": "https://articles.aenigma.ro/user-guide/host-server-en.md",
     "imageUrls": []
   }
 ]
