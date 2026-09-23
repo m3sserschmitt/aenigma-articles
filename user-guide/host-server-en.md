@@ -6,17 +6,6 @@ made possible through virtualization. Your device will become the host for a
 virtual image of the system running Aenigma. Virtual images are currently
 available for `Virtualbox` and `libvirt/Qemu`.
 
-### Table of Contents
-
-- [Installing the Virtual Machine](#installing-the-virtual-machine)
-- [Tor Browser](#tor-browser)
-- [Aenigma Mobile App](#aenigma-mobile-app)
-- [Configuration](#configuration)
-- [Setting a Password - Optional](#setting-a-password---optional)
-- [Federation](#federation)
-- [Other Features](#other-features)
-- [Contact](#contact)
-
 ### Installing the Virtual Machine
 
 Go to [aenigma-boxes](https://github.com/m3sserschmitt/aenigma-boxes)
@@ -43,7 +32,7 @@ The [Aenigma mobile app](https://play.google.com/store/apps/details?id=ro.aenigm
 integrates [tor-android](https://github.com/guardianproject/tor-android), a
 native Android library that enables communication over the TOR network. Visit
 this
-[document](https://github.com/m3sserschmitt/aenigma-articles/blob/gh-pages/user-guide/contacts-screen-ro.md)
+[document](https://github.com/m3sserschmitt/aenigma-articles/blob/gh-pages/user-guide/contacts-screen-en.md)
 to understand how Aenigma can establish a connection over the TOR network to
 the private server that is about to be configured.
 
@@ -104,7 +93,7 @@ See [setting a password](#setting-a-password---optional).
 2. The connection QR code. It can be scanned directly from the Aenigma mobile
 app for a direct connection. It can be shared with other people for
 connecting. Visit this
-[document](https://github.com/m3sserschmitt/aenigma-articles/blob/gh-pages/user-guide/servers-bottom-sheet-ro.md)
+[document](https://github.com/m3sserschmitt/aenigma-articles/blob/gh-pages/user-guide/servers-bottom-sheet-en.md)
 to learn how a connection to the server can be established from the
 [Aenigma mobile app](#aenigma-mobile-app).
 3. The connection details for federation purposes. They can be shared with

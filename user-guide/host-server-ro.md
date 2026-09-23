@@ -7,17 +7,6 @@ Dispozitivul utilizatorului va deveni gazdă pentru o imagine virtuală a sistem
 va rula Aenigma. În prezent sunt puse la dispoziție imagini virtuale pentru
 `Virtualbox` și `libvirt/Qemu`. 
 
-### Cuprins
-
-- [Instalarea mașinii virtuale](#instalarea-mașinii-virtuale)
-- [Tor Browser](#tor-browser)
-- [Aplicația mobilă Aenigma](#aplicația-mobilă-aenigma)
-- [Configurarea](#configurarea)
-- [Setarea unei parole - Opțional](#setarea-unei-parole---opțional)
-- [Federalizarea](#federalizarea)
-- [Alte funcționalități](#alte-funcționalități)
-- [Contact](#contact)
-
 ### Instalarea mașinii virtuale
 
 Accesați [aenigma-boxes](https://github.com/m3sserschmitt/aenigma-boxes)
