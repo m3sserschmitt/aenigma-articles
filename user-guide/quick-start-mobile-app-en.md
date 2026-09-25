@@ -1,16 +1,16 @@
-## Aenigma Mobile App Quick Start Guide
-
-<a href="https://play.google.com/store/apps/details?id=ro.aenigma">
-<img alt="Get it on Google Play"
-src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
-width="150">
-</a>
+## Overview
 
 This series of documents introduces the core features of the Aenigma mobile app. The app
 is available on [Google Play](https://play.google.com/store/apps/details?id=ro.aenigma), or
 via this [link](https://github.com/m3sserschmitt/aenigma-android/releases/latest/download/aenigma.apk)
 for devices without Google Services. The user guide is also available directly in the app
 through the info buttons: ⓘ
+
+<a href="https://play.google.com/store/apps/details?id=ro.aenigma">
+<img alt="Get it on Google Play"
+src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+width="150">
+</a>
 
 ### Contents
 

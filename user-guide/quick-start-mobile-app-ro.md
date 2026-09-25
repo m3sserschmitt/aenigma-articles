@@ -1,16 +1,16 @@
-## Ghid rapid de utilizare al aplicației mobile Aenigma
-
-<a href="https://play.google.com/store/apps/details?id=ro.aenigma">
-  <img alt="Get it on Google Play"
-  src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
-  width="150">
-</a>
+## Generalități
 
 În această serie de documente sunt prezentate funcționalitățile de bază ale aplicației
 mobile Aenigma. Aceasta este diponibilă în
 [Google Play](https://play.google.com/store/apps/details?id=ro.aenigma), sau la acest
 [link](https://github.com/m3sserschmitt/aenigma-android/releases/latest/download/aenigma.apk) pentru dispozitivele fără Servicii Google. Ghidul de utilizare este
 disponibil și direct în aplicație prin intermediul butoanelor de informații: ⓘ
+
+<a href="https://play.google.com/store/apps/details?id=ro.aenigma">
+  <img alt="Get it on Google Play"
+  src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+  width="150">
+</a>
 
 ### Conținut
 
