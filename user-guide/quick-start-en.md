@@ -87,8 +87,8 @@ width="150">
 
 Next, follow the series of quick guides to get familiar with the app:
 
-1. [Aenigma Mobile App User Guide](https://web.aenigma.ro/#/blog/article?url=https%3A%2F%2Farticles.aenigma.ro%2Fuser-guide%2Fquick-start-mobile-app-ro.md)
-2. [Host Your Own Aenigma Server](https://web.aenigma.ro/#/blog/article?url=https%3A%2F%2Farticles.aenigma.ro%2Fuser-guide%2Fhost-server-ro.md)
+1. [Aenigma Mobile App User Guide](https://web.aenigma.ro/#/blog/article?url=https%3A%2F%2Farticles.aenigma.ro%2Fuser-guide%2Fquick-start-mobile-app-en.md)
+2. [Host Your Own Aenigma Server](https://web.aenigma.ro/#/blog/article?url=https%3A%2F%2Farticles.aenigma.ro%2Fuser-guide%2Fhost-server-en.md)
 
 ### Contact
 
