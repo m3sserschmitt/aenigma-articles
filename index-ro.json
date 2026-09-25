@@ -1,9 +1,16 @@
 [
   {
-    "title": "Politica de confidențialitate",
-    "description": "Cum sunt tratate datele tale personale.",
-    "date": "2025-08-26T00:00:00+03:00",
-    "url": "https://articles.aenigma.ro/privacy-policy-ro.md",
+    "title": "Noi orizonturi",
+    "description": "Învățați cum funcționează Aenigma în a vă oferi o alternativă viabilă pentru comunicații private.",
+    "date": "2026-09-25T00:00:00+03:00",
+    "url": "https://articles.aenigma.ro/user-guide/quick-start-ro.md",
+    "imageUrls": []
+  },
+  {
+    "title": "Ghid rapid de utilizare al aplicației mobile Aenigma",
+    "description": "Învățați cum să folosiți aplicația mobilă Aenigma pentru a vă securiza comunicațiile.",
+    "date": "2026-09-25T00:00:00+03:00",
+    "url": "https://articles.aenigma.ro/user-guide/quick-start-mobile-app-ro.md",
     "imageUrls": []
   },
   {
@@ -14,10 +21,10 @@
     "imageUrls": []
   },
   {
-    "title": "Ghid rapid de utilizare al aplicației mobile Aenigma",
-    "description": "Învățați cum să folosiți aplicația mobilă Aenigma pentru a vă securiza comunicațiile.",
-    "date": "2026-09-25T00:00:00+03:00",
-    "url": "https://articles.aenigma.ro/user-guide/quick-start-mobile-app-ro.md",
+    "title": "Politica de confidențialitate",
+    "description": "Cum sunt tratate datele tale personale.",
+    "date": "2025-08-26T00:00:00+03:00",
+    "url": "https://articles.aenigma.ro/privacy-policy-ro.md",
     "imageUrls": []
   }
 ]

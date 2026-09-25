@@ -1,9 +1,16 @@
 [
+   {
+    "title": "New horizons",
+    "description": "Learn how Aenigma works and how it can become an easy to use privacy oriented alternative.",
+    "date": "2026-09-25T00:00:00+03:00",
+    "url": "https://articles.aenigma.ro/user-guide/quick-start-en.md",
+    "imageUrls": []
+  },
   {
-    "title": "Privacy Policy",
-    "description": "Learn how Aenigma store and process your data.",
-    "date": "2025-08-26T00:00:00+03:00",
-    "url": "https://articles.aenigma.ro/privacy-policy-en.md",
+    "title": "Aenigma mobile app quick start guide",
+    "description": "Get yourself comfortable using Aenigma mobile app to secure your communications.",
+    "date": "2026-09-25T00:00:00+03:00",
+    "url": "https://articles.aenigma.ro/user-guide/quick-start-mobile-app-en.md",
     "imageUrls": []
   },
   {
@@ -14,10 +21,10 @@
     "imageUrls": []
   },
   {
-    "title": "Aenigma mobile app quick start guide",
-    "description": "Get yourself comfortable using Aenigma mobile app to secure your communications.",
-    "date": "2026-09-25T00:00:00+03:00",
-    "url": "https://articles.aenigma.ro/user-guide/quick-start-mobile-app-en.md",
+    "title": "Privacy Policy",
+    "description": "Learn how Aenigma store and process your data.",
+    "date": "2025-08-26T00:00:00+03:00",
+    "url": "https://articles.aenigma.ro/privacy-policy-en.md",
     "imageUrls": []
   }
 ]
