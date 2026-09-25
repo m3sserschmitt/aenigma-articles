@@ -1,7 +1,7 @@
 [
   {
     "title": "Politica de confidențialitate",
-    "description": "Cum sunt tratate datele tale personale",
+    "description": "Cum sunt tratate datele tale personale.",
     "date": "2025-08-26T00:00:00+03:00",
     "url": "https://articles.aenigma.ro/privacy-policy-ro.md",
     "imageUrls": []
@@ -11,6 +11,13 @@
     "description": "Aenigma pune la dispoziție o modalitate simplă de găzduire a propriului sistem de mesagerie privat chiar pe dispozitivul personal al utilizatorului, pentru toate platformele desktop. Aflați com puteți face asta în câțiva pași simpli.",
     "date": "2026-09-09T00:00:00+03:00",
     "url": "https://articles.aenigma.ro/user-guide/host-server-ro.md",
+    "imageUrls": []
+  },
+  {
+    "title": "Ghid rapid de utilizare al aplicației mobile Aenigma",
+    "description": "Învățați cum să folosiți aplicația mobilă Aenigma pentru a vă securiza comunicațiile.",
+    "date": "2026-09-25T00:00:00+03:00",
+    "url": "https://articles.aenigma.ro/user-guide/quick-start-mobile-app-ro.md",
     "imageUrls": []
   }
 ]
